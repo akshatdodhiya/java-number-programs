@@ -30,7 +30,7 @@ public class sum_of_five_numbers {
 
             int c2 = obj.count_digits(n2);
             if (c2 == 4) {
-                System.out.println("\nYour answer will be : " + ans);
+                System.out.println("\nYour answer will be : " + ans);  // Printing the answer before the calculation
                 obj.number_by_computer(n2);
 
 
