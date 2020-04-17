@@ -2,7 +2,7 @@ package com.akshat.number_programs;
 
 import java.util.Scanner;
 
-public class sum_of_five_numbers {
+class sum_of_five_numbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -111,7 +111,7 @@ public class sum_of_five_numbers {
             cnt++;
             temp = temp / 10;
         }
-        return cnt;
+        return cnt;  // Returning count value
     }
 
 
