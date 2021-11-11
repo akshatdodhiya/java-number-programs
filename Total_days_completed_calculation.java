@@ -4,6 +4,9 @@
     2) input = 03/03/1998
     then, output = 62 days */
 
+// Youtube Video Code Explanation and Output Demostration:
+// https://www.youtube.com/watch?v=XjL07o6qdhI
+
 
 import java.io.*;
 class total_dates_calculation
